@@ -1,13 +1,11 @@
 
 
-# Build
-```
-npm run build
-```
-
-# Watch
+# Reproduce 
 
 ```
-npm run watch
+yarn install
+yarn start
+
+then look in the chrome output.
 ```
 
