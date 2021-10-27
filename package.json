@@ -1,0 +1,13 @@
+{
+  "name": "applydefault",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "live-server": "^1.2.1",
+    "rescript": "^9.1.4"
+  },
+  "scripts": {
+    "start": "live-server --open --port=8080"
+  }
+}
